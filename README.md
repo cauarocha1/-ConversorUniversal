@@ -5,8 +5,8 @@
 
 ## 👥 Identificação da Dupla
 
-* **Aluno 1:** Cauã Rocha Ribeiro de Souza (2026) - Curso
-* **Aluno 2:** Pedro de Boucherville da Silva (2026) - Curso
+* **Aluno 1:** Cauã Rocha Ribeiro de Souza (202610178) - Curso
+* **Aluno 2:** Pedro de Boucherville da Silva (202611441) - Curso
 * **Turma:** 14A - 2026/1
 
 ## 🎬 Vídeo de Demonstração
