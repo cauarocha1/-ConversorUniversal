@@ -1,0 +1,34 @@
+{
+    "tasks": [
+        {
+            "type": "cppbuild",
+            "label": "C/C++: gcc arquivo de build ativo",
+            "command": "/usr/bin/g++",
+            "args": [
+                "-std=c++17",
+                "-fdiagnostics-color=always",
+                "-g",
+                "-I./include",
+                "src/main.cpp",
+                "src/conversor.cpp",
+                "src/parser.cpp",
+                "src/formatador.cpp",
+                "src/utilitarios.cpp",
+                "-o",
+                "conversor_bases"
+            ],
+            "options": {
+                "cwd": "${workspaceFolder}"
+            },
+            "problemMatcher": [
+                "$gcc"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "detail": "Tarefa de build com todas as dependências"
+        }
+    ],
+    "version": "2.0.0"
+}
