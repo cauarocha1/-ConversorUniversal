@@ -11,8 +11,7 @@
 
 ## 🎬 Vídeo de Demonstração
 
-* **Link para o vídeo:** [Insira o Link Aqui (YouTube Não Listado ou Google Drive Aberto)]
-* *Nota: O vídeo possui X minutos (está entre o limite obrigatório de 8 a 12 minutos) e ambos os integrantes explicam o código.*
+* **Link para o vídeo:** https://www.youtube.com/@rochacaua
 
 ## 🛠️ Linguagem e Justificativa Técnica
 
