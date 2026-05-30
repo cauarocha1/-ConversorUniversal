@@ -11,7 +11,7 @@
 
 ## 🎬 Vídeo de Demonstração
 
-* **Link para o vídeo:** https://www.youtube.com/@rochacaua
+* **Link para o vídeo:** https://youtu.be/ukEhfKGJglw
 
 ## 🛠️ Linguagem e Justificativa Técnica
 
